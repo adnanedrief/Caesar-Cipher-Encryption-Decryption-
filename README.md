@@ -1,10 +1,9 @@
 
-
-#What is Caesar Cipher ?
+# What is Caesar Cipher ?
 In cryptography, a Caesar cipher, also known as Caesar's cipher, the shift cipher, Caesar's code or Caesar shift, is one of the simplest and most widely known encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. [[More]](https://en.wikipedia.org/wiki/Caesar_cipher "More")
 
 # Encryption
-####Exemples
+#### Exemples
 ##### LEFT SHIFT OF 3
 ![](https://upload.wikimedia.org/wikipedia/commons/4/4a/Caesar_cipher_left_shift_of_3.svg)
 
@@ -39,7 +38,7 @@ The cipher illustrated here uses a right shift of three, so each occurrence of B
  
 # Decryption
 Caesar code decryption replaces a letter another with an inverse alphabet shift: a previous letter in the alphabet.
-####Exemple
+#### Exemple
 
 ` Right Shift Of 3`
 
